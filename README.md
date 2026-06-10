@@ -100,4 +100,8 @@ Two sample HRMS files created for portfolio purposes — no real employee data u
 
 📄 [Full Analysis & Insights](insights.md)
 
-> 📎 [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [More Projects](https://github.com/joyceleehy)
+## About Me
+
+Data Analyst with a background in People Analytics and BI. Currently open to Data Analyst, BI Analyst, and Analytics roles across industries.
+
+📎 [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
